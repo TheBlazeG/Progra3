@@ -47,3 +47,73 @@ Floatcell &Floatcell::operator=(float rhs) {
     storedValue = rhs;
     return *this;}
 ```
+
+
+```c++
+
+//si no esta definida la clase entra dentro de este if
+
+#ifndef FLOATCELL_H
+
+//se comienza a definir la clase
+
+#define FLOATCELL_H
+
+  
+
+class FloatCell {
+
+//miembros públicos que pueden ser accesados fuera de la clase
+
+public:
+
+//este constructor implícito actúa cuando no se le da valor al inicializar el objeto (corregí el código como nos dijo)
+
+    Float(float newValue = 0);
+
+//este constructor se utiliza cuando si se le asigna un valor al objeto, y con esto se le asigna
+
+    explicit FloatCell(const FloatCell &rhs);
+
+//Funciona para asignar la dirección de memoria de los datos del lado derecho
+
+    explicit FloatCell(FloatCell &&rhs) noexcept;
+
+//este es el destructor, se puede llamar manualmente para borrar news por ejemplo y también se llama automáticamente cuando un valor se deja de utilizar con el propósito de liberar recursos.
+
+    ~FloatCell() = default;
+
+  
+//se establecen los operadores de copia y mover 
+    FloatCell &operator=(const FloatCell &rhs);
+
+    FloatCell &operator=(FloatCell &&rhs) noexcept;
+
+  
+
+    // Overloaded assignment operator to accept primitive float
+    //se sobrecarga el operador para aceptar datos de tipo flotante utilizando el =
+
+    FloatCell &operator=(int rhs);
+
+  
+//función para obtener valores
+    int getValue() const;
+//función para asignar valores enteros
+    void setValue(int newValue);
+
+  
+
+private:
+//variable en la que se guarda el valor entero
+    int storedValue;
+
+};
+
+  
+
+//final del if que actua si no está definido
+
+#endif  // INTCELL_H
+
+```

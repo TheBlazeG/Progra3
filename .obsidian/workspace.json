@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen 1.md",
+                "file": "Documentación Floatcell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examen 1.md",
+                "file": "Documentación Floatcell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examen 1.md",
+                "file": "Documentación Floatcell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examen 1.md"
+                "file": "Documentación Floatcell.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "ab561f3874b8dee8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Examen 1.md"
+  ]
 }
