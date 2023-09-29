@@ -5,51 +5,52 @@
 #ifndef EXAMEN1_DOUBLECELL_H
 #define EXAMEN1_DOUBLECELL_H
 
-
 class DoubleCell {
 public:
-    // Default constructor
+// Default constructor
 DoubleCell();
-    // Constructor with value
-    explicit DoubleCell(double value);
+// Constructor with value
+explicit DoubleCell(double value);
 
-    // Copy constructor
-    DoubleCell(const DoubleCell& other);
+// Copy constructor
+DoubleCell(const DoubleCell& other);
 
-    //Reference constructor
+//Reference constructor
 DoubleCell(DoubleCell&&other) noexcept;
-    // Destructor
-    ~DoubleCell();
+// Destructor
+~DoubleCell();
 
-    // Assignment operator by copy
+// Assignment operator by copy
 DoubleCell& operator=(const DoubleCell & other);
-    // Assignment operator by reference
-    DoubleCell& operator=(DoubleCell&& other);
+// Assignment operator by reference
+DoubleCell& operator=(DoubleCell&& other);
 
-    // Assignment operator for double
-    DoubleCell& operator=(double value);
+// Assignment operator for double
+DoubleCell& operator=(double value);
 
-    // Arithmetic operators
-    DoubleCell operator +(const DoubleCell& other) const;
-    DoubleCell operator +(const double other) const;
-    DoubleCell operator -(const DoubleCell& other) const;
-    DoubleCell operator -(const double other) const;
-    DoubleCell operator *(const DoubleCell& other) const;
-    DoubleCell operator *(const double other) const;
-    DoubleCell operator /(const DoubleCell& other) const;
-    DoubleCell operator /(const double other) const;
+// Arithmetic operators
+DoubleCell operator +(const DoubleCell& other) const;
+DoubleCell operator +(const double other) const;
+DoubleCell operator -(const DoubleCell& other) const;
+DoubleCell operator -(const double other) const;
+DoubleCell operator *(const DoubleCell& other) const;
+DoubleCell operator *(const double other) const;
+DoubleCell operator /(const DoubleCell& other) const;
+DoubleCell operator /(const double other) const;
 
-    // Setters
+// Setters
 void setValue(double newValue);
-    // Getters
+// Getters
 
-    double GetValue() const;
+double GetValue() const;
 
 
 private:
-    double Storedvalue;
+double Storedvalue;
 
 };
+
+
 
 
 #endif //EXAMEN1_DOUBLECELL_H
