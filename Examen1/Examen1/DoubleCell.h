@@ -9,7 +9,7 @@
 class DoubleCell {
 public:
     // Default constructor
-DoubleCell(double newValue=0);
+DoubleCell();
     // Constructor with value
     explicit DoubleCell(double value);
 
@@ -17,7 +17,7 @@ DoubleCell(double newValue=0);
     DoubleCell(const DoubleCell& other);
 
     //Reference constructor
-DoubleCell(DoubleCell&&rhs) noexcept;
+DoubleCell(DoubleCell&&other) noexcept;
     // Destructor
     ~DoubleCell();
 

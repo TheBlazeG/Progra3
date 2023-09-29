@@ -1,3 +1,3 @@
-C:/Users/Alumnos/Desktop/PPrograms/Examen1/cmake-build-debug/CMakeFiles/Examen1.dir
-C:/Users/Alumnos/Desktop/PPrograms/Examen1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Alumnos/Desktop/PPrograms/Examen1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/santi/Documents/Progra3/Examen1/Examen1/cmake-build-debug/CMakeFiles/Examen1.dir
+C:/Users/santi/Documents/Progra3/Examen1/Examen1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/santi/Documents/Progra3/Examen1/Examen1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

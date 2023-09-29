@@ -10,7 +10,7 @@ Son dos clasificaciones de datos en programación la diferencia siendo que los r
 
 ii. ¿Porqué es necesario que una clase tenga constructores y operadores por
 copia y por referencia?
-
+Porque se necesita una manera de accesar ambos el dato original y la ubicación en donde se encuentra
 
 iii. ¿Qué función desarrollan los :: en la implementación de la clase?
 Hacen que a lo que refiere solo funcione dentro de la clase, mientras que : es global
@@ -18,10 +18,10 @@ Hacen que a lo que refiere solo funcione dentro de la clase, mientras que : es g
 iv. ¿Cómo se le denomina a cuando una clase posee un operador puede
 tener múltiples implementaciones dependiendo de los argumentos que
 este reciba?
-
+Sobrecarga de tipo de dato
 
 v. ¿Cúal es la funcion del archivo .h ?
-
+El archivo .h o header sirve para asignar variables y parámetros de una clase
 
 ## Parte 2
 

@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "DoubleCell.h"
 int main() {
     //Initialize a DoubleCell object
     DoubleCell dc(5);

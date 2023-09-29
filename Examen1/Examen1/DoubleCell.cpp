@@ -18,11 +18,10 @@ DoubleCell::DoubleCell(const DoubleCell& other)
         : Storedvalue(other.Storedvalue){}
 
 //Reference  constructor
-DoubleCell::DoubleCell(DoubleCell&&  other)
-        : Storedvalue(other.Storedvalue){}
+DoubleCell::DoubleCell(DoubleCell&&  other) noexcept
+        : Storedvalue(other.Storedvalue){
+    other.Storedvalue=0;}
 
-
-// Destructor
 
 
 // Assignment operator by copy
@@ -34,7 +33,13 @@ DoubleCell& DoubleCell::operator=(const DoubleCell& other){
 }
 
 // Assignment operator by reference
-
+DoubleCell& DoubleCell::operator=(DoubleCell&& other)noexcept{
+if (this != &other){
+Storedvalue = other.Storedvalue;
+other.Storedvalue=0;
+}
+return *this;
+}
 
 // Assignment operator for double
 DoubleCell& DoubleCell::operator=(double value){
@@ -48,23 +53,23 @@ DoubleCell DoubleCell::operator +(const DoubleCell& other) const{
     return DoubleCell(Storedvalue + other.Storedvalue);
 }
 //primitive double adding
-DoubleCell DoubleCell::operator +(double value) const{
+DoubleCell DoubleCell::operator +(double other) const{
 
-    return DoubleCell(Storedvalue + value);
+    return DoubleCell(Storedvalue + other);
 }
 //primitive double subtraction
-DoubleCell DoubleCell::operator -(double value) const {
+DoubleCell DoubleCell::operator -(double other) const {
 
-    return DoubleCell(Storedvalue - value);
+    return DoubleCell(Storedvalue - other);
 }
 //DoubleCell multiplication
 DoubleCell DoubleCell::operator *(const DoubleCell& other) const{
     return DoubleCell(Storedvalue * other.Storedvalue);
 }
 //primitive double multiplication
-DoubleCell DoubleCell::operator *(double value) const{
+DoubleCell DoubleCell::operator *(double other) const{
 
-    return DoubleCell(Storedvalue * value);}
+    return DoubleCell(Storedvalue * other);}
 //DoubleCell division
 DoubleCell DoubleCell::operator /(const DoubleCell& other) const{
     if(other.Storedvalue == 0){
@@ -82,6 +87,8 @@ DoubleCell DoubleCell::operator /(double value) const{
 }
 
 // Setters
-void DoubleCell::SetValue(double value){
-    Storedvalue = value;
-}
+void DoubleCell::setValue(double newValue) {
+Storedvalue = newValue;}
+
+//getter
+double  DoubleCell::GetValue() const {return Storedvalue;}
