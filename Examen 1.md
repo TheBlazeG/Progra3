@@ -51,4 +51,4 @@ std::cout << "Resultado: " << resultado << std::endl;
 return 0;
 }
 ```
-$O(n^2)$
+$O(n^2)$ complejidad cuadrática
