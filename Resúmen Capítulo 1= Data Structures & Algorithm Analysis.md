@@ -13,7 +13,8 @@ La aritmética modular se basa en que mod utiliza el residuo de una división, p
 ## The P word
 La palabra P hace alusión a Pruebas, esto siendo pruebas lógicas del problema matemático a tratar y de porque una solución funciona, existen 3 tipos principales mostrados por el libro, Prueba por Inducción en la cual se prueba el caso base para luego probar el caso base +1, si éste funciona se considera verdadero,  Prueba por contradicción, en la cual se trata de demostrar que una de las propiedades que se utilizarán es incorrecta y al probar que es correcta se crea la prueba necesaria,  y Prueba por contraejemplo, la cual es una manera de mostrar que algo no puede ser posiblemente correcto al mostrar otra cosa que contradice una propiedad unicersal
 ## Recursion
-La recursión es utilizada para que ciertos problemas o funciones se llamen a si mismos para ser resueltos un caso de esto es el escribir un número uno por uno.
+La recursión es utilizada para que ciertos problemas o funciones se llamen a si mismos para ser resueltos un caso de esto es el escribir un número uno por uno, incluyen un caso base, normalmente es cuando el contador llegue a 0 o el número deseado, de esta manera es que se detiene
+![[Pasted image 20231004230339.png]]
 ## Classes
 Estos son Objetos que Guardan datos o funciones los cuales también son llamados Miembros los cuales pueden ser públicos o privados, esto determina si otras clases pueden acceder a esos datos.
 ## C++ Details

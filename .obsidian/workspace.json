@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentación Floatcell.md",
+                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentación Floatcell.md",
+                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentación Floatcell.md",
+                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentación Floatcell.md"
+                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ab561f3874b8dee8",
   "lastOpenFiles": [
+    "Pasted image 20231004230339.png",
+    "Documentación Floatcell.md",
     "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
     "Pasted image 20231004201812.png",
     "List/Documentación de lista.md",
@@ -157,7 +159,6 @@
     "Pasted image 20231004190025.png",
     "Pasted image 20231004185910.png",
     "Pasted image 20231004185723.png",
-    "Documentación Floatcell.md",
     "Examen 1.md"
   ]
 }
