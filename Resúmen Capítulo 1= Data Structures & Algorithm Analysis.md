@@ -2,8 +2,10 @@
 # Capítulo1 
 ## Exponents
 Son las potencias normalmente utilizadas en matemáticas y física, en este caso servirán para calcular complejidad.
+![[Pasted image 20231004185910.png]]
 ## Logarithms
 Logaritmos, funcionan de tal manera que el logaritmo del número que tiene es igual a la potencia que tiene que tener para llegar a su base, por defecto en programación se tomara la base como 2 por su lógica binaria.
+![[Pasted image 20231004190025.png]]
 ## Series
 Las series son sumatorias de una serie de términos determinada por valores asignados en el problema.
 ## Modular arithmetic
@@ -48,3 +50,4 @@ Las matricces pueden ser generadas con una plantilla de vector usando object, pa
 M. A. Weiss, _Data Structures & Algorithm Analysis in C++_. 2012. [En línea]. Disponible en: http://ci.nii.ac.jp/ncid/BA4445754X
 «Sucesiones y series», _StudySmarter ES_. https://www.studysmarter.es/resumenes/matematicas/analisis-matematico/sucesiones-y-series/
 Contributors to Wikimedia projects, «Mathematical Proof/Methods of Proof/Counterexamples», _Wikibooks, open books for an open world_, nov. 2017, [En línea]. Disponible en: https://en.wikibooks.org/wiki/Mathematical_Proof/Methods_of_Proof/Counterexamples#:~:text=A%20proof%20by%20counterexample%20is,that%20contradicts%20a%20universal%20statement.
+«Exponente de una potencia - Diccionario de Matemáticas | Superprof», _Diccionario de Matemáticas | Superprof_. https://www.superprof.es/diccionario/matematicas/aritmetica/exponente-potencia.html#:~:text=Qu%C3%A9%20significa%20exponente%20de%20una%20potencia%20en%20Matem%C3%A1ticas&text=El%20exponente%20de%20una%20potencia,la%20base%20por%20s%C3%AD%20misma.&text=El%20exponente%20de%20la%20potencia,de%20la%20potencia%20es%205.
