@@ -43,11 +43,14 @@ Existen diferentes tipos de plantillas, de función y de clase, el primer tipo p
 El segundo tipo utiliza object, de esta manera puede utilizar distintos tipos como primitivos y clases para su funcionamiento, utilizando este mismo concepto, se pueden generar matrices.
 
 ## Matrices
-Las matricces pueden ser generadas con una plantilla de vector usando object, para luego reemplazar con vector, de esta manera generando un vector de vectores, de los cuales se pueden acceder a sus datos, por ejemplo con la sintaxis m[i]  [j] (Columna y fila).  
-
-
+Las matrices pueden ser generadas con una plantilla de vector usando object, para luego reemplazar con vector, de esta manera generando un vector de vectores, de los cuales se pueden acceder a sus datos, por ejemplo con la sintaxis m[i]  [j] (Columna y fila).  
+![[Pasted image 20231004201812.png]]
+### Conclusión:
+Las únicas dudas que tuve entre algunas cosas fueron de los funcionamientos de los constructores, más que nada por la sintaxis no tanto por el proceso que ocure detrás de cámara, tuve dudas de como implementar un template, pero como este es santi del futuro tengo menos, y asumí que lo veríamos en algún momento, tal vez sea buena idea hacer algunos ejemplos de matrices, por un tiempo estuve muy confundido con los & porque solo estabamos acostumbrados a usar uno, en algun momento mi cerebro mezcló datos y no entendía que move era otro concepto, cosa que ya entiendo tiene otra funcionalidad.
+Los r valores y l valores los tengo muy en claro, si acaso hablar de uno refiriendo a otro puede llegar a ser confuso.
 ### Referencias:
 M. A. Weiss, _Data Structures & Algorithm Analysis in C++_. 2012. [En línea]. Disponible en: http://ci.nii.ac.jp/ncid/BA4445754X
 «Sucesiones y series», _StudySmarter ES_. https://www.studysmarter.es/resumenes/matematicas/analisis-matematico/sucesiones-y-series/
 Contributors to Wikimedia projects, «Mathematical Proof/Methods of Proof/Counterexamples», _Wikibooks, open books for an open world_, nov. 2017, [En línea]. Disponible en: https://en.wikibooks.org/wiki/Mathematical_Proof/Methods_of_Proof/Counterexamples#:~:text=A%20proof%20by%20counterexample%20is,that%20contradicts%20a%20universal%20statement.
 «Exponente de una potencia - Diccionario de Matemáticas | Superprof», _Diccionario de Matemáticas | Superprof_. https://www.superprof.es/diccionario/matematicas/aritmetica/exponente-potencia.html#:~:text=Qu%C3%A9%20significa%20exponente%20de%20una%20potencia%20en%20Matem%C3%A1ticas&text=El%20exponente%20de%20una%20potencia,la%20base%20por%20s%C3%AD%20misma.&text=El%20exponente%20de%20la%20potencia,de%20la%20potencia%20es%205.
+Cienciayt, «C Matrices - Cienciayt», _Cienciayt_, 30 de abril de 2020. https://cienciayt.com/programacion/c/c-matrices/

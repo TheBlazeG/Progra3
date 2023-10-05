@@ -46,6 +46,14 @@ Floatcell &Floatcell::operator=(Floatcell &&rhs) noexcept {
 Floatcell &Floatcell::operator=(float rhs) {
     storedValue = rhs;
     return *this;}
+
+float  FloatCell::getValue() const {
+    return  storeValue;
+}
+
+void FloatCell::SetValue(float newValue) {
+    storeValue = newValue;
+} //get y set implementado
 ```
 
 
@@ -98,7 +106,7 @@ public:
 
   
 //función para obtener valores
-    int getValue() const;
+    float getValue() const;
 //función para asignar valores enteros
     void setValue(int newValue);
 
@@ -106,7 +114,7 @@ public:
 
 private:
 //variable en la que se guarda el valor entero
-    int storedValue;
+    float storedValue;
 
 };
 

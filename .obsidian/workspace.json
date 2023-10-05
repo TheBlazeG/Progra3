@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List/Documentación de lista.md",
+                "file": "Documentación Floatcell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List/Documentación de lista.md",
+                "file": "Documentación Floatcell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List/Documentación de lista.md",
+                "file": "Documentación Floatcell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List/Documentación de lista.md"
+                "file": "Documentación Floatcell.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "ab561f3874b8dee8",
   "lastOpenFiles": [
     "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
+    "Pasted image 20231004201812.png",
     "List/Documentación de lista.md",
     "List/SLList.h",
     "List",
