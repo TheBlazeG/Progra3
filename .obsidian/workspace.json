@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
+                "file": "ResumenCapitulo3/Resumen Capítulo 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
+                "file": "ResumenCapitulo3/Resumen Capítulo 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
+                "file": "ResumenCapitulo3/Resumen Capítulo 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md"
+                "file": "ResumenCapitulo3/Resumen Capítulo 3.md"
               }
             }
           }
@@ -148,17 +148,25 @@
   },
   "active": "ab561f3874b8dee8",
   "lastOpenFiles": [
+    "Pasted image 20231005231537.png",
+    "Pasted image 20231005231524.png",
+    "Pasted image 20231005224820.png",
+    "Pasted image 20231005214534.png",
+    "Pasted image 20231005214101.png",
+    "Pasted image 20231005204537.png",
+    "Pasted image 20231005195215.png",
+    "Pasted image 20231005195153.png",
+    "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
+    "ResumenCapitulo3/Resumen Capítulo 3.md",
+    "ResumenCapitulo3",
     "Pasted image 20231004230339.png",
     "Documentación Floatcell.md",
-    "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
     "Pasted image 20231004201812.png",
     "List/Documentación de lista.md",
     "List/SLList.h",
     "List",
     "New folder",
     "Pasted image 20231004190025.png",
-    "Pasted image 20231004185910.png",
-    "Pasted image 20231004185723.png",
     "Examen 1.md"
   ]
 }
