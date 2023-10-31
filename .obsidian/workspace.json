@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ResumenCapitulo3/Resumen Capítulo 3.md",
+                "file": "Resumen cap 4+final 3/Resumen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ResumenCapitulo3/Resumen Capítulo 3.md",
+                "file": "Resumen cap 4+final 3/Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ResumenCapitulo3/Resumen Capítulo 3.md",
+                "file": "Resumen cap 4+final 3/Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ResumenCapitulo3/Resumen Capítulo 3.md"
+                "file": "Resumen cap 4+final 3/Resumen.md"
               }
             }
           }
@@ -148,25 +148,34 @@
   },
   "active": "ab561f3874b8dee8",
   "lastOpenFiles": [
+    "Arbol AVL/Arbol AVL.md",
+    "Resumen cap 4+final 3/Resumen.md",
+    "Pasted image 20231030233433.png",
+    "Pasted image 20231030233136.png",
+    "Pasted image 20231030230725.png",
+    "Pasted image 20231030230145.png",
+    "Pasted image 20231030225732.png",
+    "DocArbol/AvlTree.h",
+    "DocArbol/cmake-build-debug/Testing/Temporary/LastTest.log",
+    "DocArbol/cmake-build-debug/Testing/Temporary",
+    "DocArbol/cmake-build-debug/Testing",
+    "DocArbol/cmake-build-debug/CMakeFiles/clion-Debug-log.txt",
+    "DocArbol/cmake-build-debug/build.ninja",
+    "DocArbol/cmake-build-debug/CMakeFiles/rules.ninja",
+    "DocArbol/cmake-build-debug/CMakeFiles/TargetDirectories.txt",
+    "DocArbol/cmake-build-debug/cmake_install.cmake",
+    "DocArbol/cmake-build-debug/CMakeFiles/DocArbol.dir",
+    "Untitled.md",
+    "List/Lista Doble.md",
+    "List/Documentación de lista.md",
+    "ResumenCapitulo3/Resumen Capítulo 3.md",
     "Pasted image 20231005231537.png",
     "Pasted image 20231005231524.png",
     "Pasted image 20231005224820.png",
     "Pasted image 20231005214534.png",
     "Pasted image 20231005214101.png",
-    "Pasted image 20231005204537.png",
-    "Pasted image 20231005195215.png",
-    "Pasted image 20231005195153.png",
     "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
-    "ResumenCapitulo3/Resumen Capítulo 3.md",
-    "ResumenCapitulo3",
-    "Pasted image 20231004230339.png",
     "Documentación Floatcell.md",
-    "Pasted image 20231004201812.png",
-    "List/Documentación de lista.md",
-    "List/SLList.h",
-    "List",
-    "New folder",
-    "Pasted image 20231004190025.png",
     "Examen 1.md"
   ]
 }
