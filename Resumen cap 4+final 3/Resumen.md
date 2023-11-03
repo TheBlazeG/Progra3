@@ -51,3 +51,12 @@ En este caso,se intercambia k1 con k2 equilibrando las alturas, el hijo derecho 
 La doble rotacion ocurre cuando hay un desbalanceo en dos direcciones diferentes, en terminos simples es un nodo o sub arbol menor a su padre pero mayor a su abuelo o mayor a su padre pero menor a su abuelo:
 ![[Pasted image 20231030233433.png]]
 en este ejemplo primero se intercambia con una rotacion simple k1 con k2, b transformandose en el hijo derecho de k1 y luego se hace otra rotacion simple de k2 con k3 para lograr el balance como se muestra en la parte derecha. 
+
+Conclusión
+
+Fuentes 
+[1]«ARBOLES GENERALES». https://ccia.ugr.es/~jfv/ed1/tedi/cdrom/docs/arb_gen.htm
+[2]«Árboles binarios», _Estructuras de datos_, 10 de junio de 2014. https://hhmosquera.wordpress.com/arbolesbinarios/
+[3]MrRocket99, «Arbol Avl de Insercion y Eliminacion y Ordenamiento», _YouTube_. 5 de julio de 2018. [En línea]. Disponible en: https://www.youtube.com/watch?v=UnhMzEaLDdw
+[4]
+[5]
