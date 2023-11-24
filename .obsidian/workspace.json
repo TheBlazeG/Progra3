@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resumen cap 4+final 3/Resumen.md",
+                "file": "Resumen Ordenamiento/Ordenamiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resumen cap 4+final 3/Resumen.md",
+                "file": "Resumen Ordenamiento/Ordenamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resumen cap 4+final 3/Resumen.md",
+                "file": "Resumen Ordenamiento/Ordenamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resumen cap 4+final 3/Resumen.md"
+                "file": "Resumen Ordenamiento/Ordenamiento.md"
               }
             }
           }
@@ -148,32 +148,35 @@
   },
   "active": "ab561f3874b8dee8",
   "lastOpenFiles": [
-    "Arbol AVL/Arbol AVL.md",
     "Resumen cap 4+final 3/Resumen.md",
+    "Resumen Ordenamiento/Ordenamiento.md",
+    "Resumen Ordenamiento",
+    "Pasted image 20231108234332.png",
+    "Pasted image 20231108233416.png",
+    "Pasted image 20231108232645.png",
+    "Pasted image 20231108232417.png",
+    "Pasted image 20231108232327.png",
+    "Pasted image 20231108231739.png",
+    "Pasted image 20231108231708.png",
+    "Pasted image 20231108230521.png",
+    "Pasted image 20231108230415.png",
+    "RevisionCompleta/RevisionCompletaReadme.md",
+    "Untitled.canvas",
+    "RevisionCompleta/cmake-build-debug/CMakeFiles/RevisionCompleta.dir/intermediate.manifest",
+    "RevisionCompleta/cmake-build-debug/RevisionCompleta.pdb",
+    "RevisionCompleta/cmake-build-debug/RevisionCompleta.exe",
+    "RevisionCompleta/cmake-build-debug/RevisionCompleta.ilk",
+    "RevisionCompleta/cmake-build-debug/CMakeFiles/RevisionCompleta.dir/manifest.res",
+    "RevisionCompleta/cmake-build-debug/CMakeFiles/RevisionCompleta.dir/embed.manifest",
+    "RevisionCompleta/cmake-build-debug/CMakeFiles/RevisionCompleta.dir/manifest.rc",
+    "RevisionCompleta/cmake-build-debug/CMakeFiles/RevisionCompleta.dir/main.cpp.obj",
+    "RevisionCompleta/cmake-build-debug/CMakeFiles/RevisionCompleta.dir/vc140.pdb",
+    "Arbol AVL/Arbol AVL.md",
     "Pasted image 20231030233433.png",
-    "Pasted image 20231030233136.png",
-    "Pasted image 20231030230725.png",
-    "Pasted image 20231030230145.png",
-    "Pasted image 20231030225732.png",
-    "DocArbol/AvlTree.h",
-    "DocArbol/cmake-build-debug/Testing/Temporary/LastTest.log",
-    "DocArbol/cmake-build-debug/Testing/Temporary",
-    "DocArbol/cmake-build-debug/Testing",
-    "DocArbol/cmake-build-debug/CMakeFiles/clion-Debug-log.txt",
-    "DocArbol/cmake-build-debug/build.ninja",
-    "DocArbol/cmake-build-debug/CMakeFiles/rules.ninja",
-    "DocArbol/cmake-build-debug/CMakeFiles/TargetDirectories.txt",
-    "DocArbol/cmake-build-debug/cmake_install.cmake",
-    "DocArbol/cmake-build-debug/CMakeFiles/DocArbol.dir",
     "Untitled.md",
     "List/Lista Doble.md",
     "List/Documentación de lista.md",
     "ResumenCapitulo3/Resumen Capítulo 3.md",
-    "Pasted image 20231005231537.png",
-    "Pasted image 20231005231524.png",
-    "Pasted image 20231005224820.png",
-    "Pasted image 20231005214534.png",
-    "Pasted image 20231005214101.png",
     "Resúmen Capítulo 1= Data Structures & Algorithm Analysis.md",
     "Documentación Floatcell.md",
     "Examen 1.md"
